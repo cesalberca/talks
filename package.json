@@ -1,0 +1,24 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "description": "Talks, proposal and events",
+  "main": "index.js",
+  "repository": "https://github.com/cesalberca/talks.git",
+  "author": "César Alberca <cesalberca@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node index.js",
+    "lint": "prettier index.ts --write"
+  },
+  "devDependencies": {
+    "@types/marked": "0.6.3",
+    "@types/node": "11.11.3",
+    "doctoc": "1.4.0",
+    "npm-run": "5.0.1",
+    "prettier": "1.16.4",
+    "typescript": "3.3.3333"
+  },
+  "dependencies": {
+    "marked": "0.6.1"
+  }
+}
