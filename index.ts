@@ -95,7 +95,7 @@ function generateIndexes() {
 
 function generateAnchors(renderer: marked.Renderer) {
   renderer.heading = (text, level) => {
-    const escapedText = encodeURIComponent(text.toLowerCase()).replace(/%20/g, '+')
+    const escapedText = encodeURIComponent(text.toLowerCase()).replace(/%20/g, '-')
 
     return `
           <h${level}>
