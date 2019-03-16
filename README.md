@@ -16,8 +16,11 @@ I'm a young programmer very interested in good practices, architecture, testing 
     - [CSS Flexbox and Grid](#css-flexbox-and-grid)
     - [Vue](#vue)
 - [Call for papers](#call-for-papers)
+  - [Codemotion Milán 2019](#codemotion-mil%C3%A1n-2019)
+    - [How To Make Beautiful Software Again: Frontend Design Patterns](#how-to-make-beautiful-software-again-frontend-design-patterns)
   - [Codemotion Madrid 2019](#codemotion-madrid-2019)
-    - [How To Make Beautiful Software Again](#how-to-make-beautiful-software-again)
+    - [How To Make Beautiful Software Again: Frontend Design Patterns](#how-to-make-beautiful-software-again-frontend-design-patterns-1)
+    - [Inversion of Control to Take Back Control](#inversion-of-control-to-take-back-control)
   - [JSCamp](#jscamp)
     - [Advanced JavaScript Patterns](#advanced-javascript-patterns-1)
   - [Codemotion Rome 2019](#codemotion-rome-2019)
@@ -26,7 +29,7 @@ I'm a young programmer very interested in good practices, architecture, testing 
     - [How To Make Beautiful Software: Frontend Design Patterns](#how-to-make-beautiful-software-frontend-design-patterns-1)
   - [JSDay 2019 Canarias](#jsday-2019-canarias)
     - [Advanced JavaScript Patterns](#advanced-javascript-patterns-2)
-    - [How To Make Beautiful Software Again](#how-to-make-beautiful-software-again-1)
+    - [How To Make Beautiful Software Again](#how-to-make-beautiful-software-again)
     - [(Vue)nas prácticas](#vuenas-pr%C3%A1cticas)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -65,9 +68,9 @@ I'm a young programmer very interested in good practices, architecture, testing 
 
 ## Call for papers
 
-### Codemotion Madrid 2019
+### Codemotion Milán 2019
 
-#### How To Make Beautiful Software Again
+#### How To Make Beautiful Software Again: Frontend Design Patterns
 
 **Abstract**: The frontend world has always been known by its **volatile nature**, however we don't make any effort to abstract ourselves from all that. We should build **robust** and **long-lived** software. In this talk we'll see how to tackle common problems in the frontend world using **TypeScript**, **React** and several **design patterns**. We'll see how we'll make our software _open to change_ while not trying to _guess the future_. Also, we'll appreciate how following the **SOLID principles** of our app will be very easy to test and change. Are you ready for this journey on _beautiful_ software?
 
@@ -75,7 +78,33 @@ I'm a young programmer very interested in good practices, architecture, testing 
 
 **Length**: 40 minutes
 
-**Language**: English or Spanish
+**Language**: English
+
+**Level**: Advanced
+
+### Codemotion Madrid 2019
+
+#### How To Make Beautiful Software Again: Frontend Design Patterns
+
+**Abstract**: The frontend world has always been known by its **volatile nature**, however we don't make any effort to abstract ourselves from all that. We should build **robust** and **long-lived** software. In this talk we'll see how to tackle common problems in the frontend world using **TypeScript**, **React** and several **design patterns**. We'll see how we'll make our software _open to change_ while not trying to _guess the future_. Also, we'll appreciate how following the **SOLID principles** of our app will be very easy to test and change. Are you ready for this journey on _beautiful_ software?
+
+**Topics**: Software architecture
+
+**Length**: 40 minutes
+
+**Language**: English
+
+**Level**: Advanced
+
+#### Inversion of Control to Take Back Control
+
+**Abstract**: Inversion of Control (IoC) is a powerful mechanism popularized by **Robert C. Martin** and **Martin Fowler** which makes your code more **reusable**, **extensible** and **testable**. It's tied with one of the **SOLID** principles and following it will give you back **absolute control over your code**.
+
+**Topics**: Software architecture
+
+**Length**: 40 minutes
+
+**Language**: English
 
 **Level**: Advanced
 
