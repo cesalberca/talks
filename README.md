@@ -18,9 +18,12 @@ I'm a young programmer very interested in good practices, architecture, testing 
 - [Call for papers](#call-for-papers)
   - [Codemotion Milán 2019](#codemotion-mil%C3%A1n-2019)
     - [How To Make Beautiful Software Again: Frontend Design Patterns](#how-to-make-beautiful-software-again-frontend-design-patterns)
+    - [Inversion of Control to Take Back Control](#inversion-of-control-to-take-back-control)
+    - [TypeScript for JavaScripters: Less typing and more Typing!](#typescript-for-javascripters-less-typing-and-more-typing)
   - [Codemotion Madrid 2019](#codemotion-madrid-2019)
     - [How To Make Beautiful Software Again: Frontend Design Patterns](#how-to-make-beautiful-software-again-frontend-design-patterns-1)
-    - [Inversion of Control to Take Back Control](#inversion-of-control-to-take-back-control)
+    - [Inversion of Control to Take Back Control](#inversion-of-control-to-take-back-control-1)
+    - [TypeScript for JavaScripters: Less typing and more Typing!](#typescript-for-javascripters-less-typing-and-more-typing-1)
   - [JSCamp](#jscamp)
     - [Advanced JavaScript Patterns](#advanced-javascript-patterns-1)
   - [Codemotion Rome 2019](#codemotion-rome-2019)
@@ -82,6 +85,30 @@ I'm a young programmer very interested in good practices, architecture, testing 
 
 **Level**: Advanced
 
+#### Inversion of Control to Take Back Control
+
+**Abstract**: Inversion of Control (IoC) is a powerful mechanism popularized by **Robert C. Martin** and **Martin Fowler** which makes your code more **reusable**, **extensible** and **testable**. It's tied with one of the **SOLID** principles and following it will give you back **absolute control over your code**.
+
+**Topics**: Software architecture
+
+**Length**: 40 minutes
+
+**Language**: English
+
+**Level**: Advanced
+
+#### TypeScript for JavaScripters: Less typing and more Typing!
+
+**Abstract**: When backend people hear JavaScript, they shudder. When frontend people hear TypeScript, they shudder. Why can't we have the best of both worlds? This talk will heavily demistify the usage of TypeScript and we will show how can we —within a JavaScript context— apply TypeScript to get the best development experience. We'll learn what a type system has to offer us and how we can prevent up to 15% bugs in production. And did I tell you about smart autocompletion when coding? How about capturing errors in compilation time instead of runtime? Better null and undefined handling?  Yes, it's possible!
+
+**Topics**: Software architecture
+
+**Length**: 40 minutes
+
+**Language**: English
+
+**Level**: Beginner
+
 ### Codemotion Madrid 2019
 
 #### How To Make Beautiful Software Again: Frontend Design Patterns
@@ -107,6 +134,18 @@ I'm a young programmer very interested in good practices, architecture, testing 
 **Language**: English
 
 **Level**: Advanced
+
+#### TypeScript for JavaScripters: Less typing and more Typing!
+
+**Abstract**: When backend people hear JavaScript, they shudder. When frontend people hear TypeScript, they shudder. Why can't we have the best of both worlds? This talk will heavily demistify the usage of TypeScript and we will show how can we —within a JavaScript context— apply TypeScript to get the best development experience. We'll learn what a type system has to offer us and how we can prevent up to 15% bugs in production. And did I tell you about smart autocompletion when coding? How about capturing errors in compilation time instead of runtime? Better null and undefined handling?  Yes, it's possible!
+
+**Topics**: Software architecture
+
+**Length**: 40 minutes
+
+**Language**: English
+
+**Level**: Beginner
 
 ### JSCamp
 
